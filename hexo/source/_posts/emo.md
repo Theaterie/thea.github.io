@@ -1,7 +1,7 @@
 ---
-title: 困困，呜呜
+title: emo
 date: 2023-04-1 
-tags:随想
+tags: 随想
 ---
 ## emo
     不太开心，要专业分流了
