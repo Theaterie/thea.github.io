@@ -1,1 +1,1 @@
-# thea.github.io
+# thea
